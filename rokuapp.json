@@ -14,11 +14,11 @@
             {
                 "dateAdded":"2015-06-11T14:14:54.431Z",
                 "captions":[],
-                "duration":236,
+                "duration":664,
                 "videos":[{
-                    "url":"https://vimeo.com/718573107",
-                    "quality":"FHD",
-                    "videoType":"MP4"
+                    "url": "https://d350feeyppx440.cloudfront.net/vods3/_definst_/smil:amazons3/spco-production-media-active/play/2/27b6403be6a34b92a34996a0078cd10c/27b6403be6a34b92a34996a0078cd10c.smil/playlist.m3u8",
+                    "quality": "FHD",
+                    "videoType": "HLS"
                 }]
             }
           },
@@ -32,11 +32,11 @@
             {
                 "dateAdded":"2015-06-11T14:14:54.431Z",
                 "captions":[],
-                "duration":261,
+                "duration":664,
                 "videos":[{
-                    "url":"https://vimeo.com/718573300",
-                    "quality":"FHD",
-                    "videoType":"MP4"
+                    "url": "https://d350feeyppx440.cloudfront.net/vods3/_definst_/smil:amazons3/spco-production-media-active/play/2/27b6403be6a34b92a34996a0078cd10c/27b6403be6a34b92a34996a0078cd10c.smil/playlist.m3u8",
+                    "quality": "FHD",
+                    "videoType": "HLS"
                 }]
             }
           },
@@ -50,11 +50,11 @@
             {
                 "dateAdded":"2015-06-11T14:14:54.431Z",
                 "captions":[],
-                "duration":241,
+                "duration":664,
                 "videos":[{
-                    "url":"https://vimeo.com/718574079",
-                    "quality":"FHD",
-                    "videoType":"MP4"
+                    "url": "https://d350feeyppx440.cloudfront.net/vods3/_definst_/smil:amazons3/spco-production-media-active/play/2/27b6403be6a34b92a34996a0078cd10c/27b6403be6a34b92a34996a0078cd10c.smil/playlist.m3u8",
+                    "quality": "FHD",
+                    "videoType": "HLS"
                 }]
             }
           },
@@ -68,11 +68,11 @@
             {
                 "dateAdded":"2015-06-11T14:14:54.431Z",
                 "captions":[],
-                "duration":214,
+                "duration":664,
                 "videos":[{
-                    "url":"https://vimeo.com/718573872",
-                    "quality":"FHD",
-                    "videoType":"MP4"
+                    "url": "https://d350feeyppx440.cloudfront.net/vods3/_definst_/smil:amazons3/spco-production-media-active/play/2/27b6403be6a34b92a34996a0078cd10c/27b6403be6a34b92a34996a0078cd10c.smil/playlist.m3u8",
+                    "quality": "FHD",
+                    "videoType": "HLS"
                 }]
             }
           }
@@ -110,4 +110,4 @@
     }
 ]
 
-}    
+}  
