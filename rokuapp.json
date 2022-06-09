@@ -1,0 +1,113 @@
+{
+    "providerName": "Pennant: Imagine Dragons",
+    "lastUpdated": "2022-6-09T02:02:37+00:00",
+    "language": "en",
+
+    "shortFormVideos":  [
+        {
+            "id":"1",
+            "title":"Imagine Dragons: Demons",
+            "shortDescription":"Imagine Dragons Demons (Official Music Video)",
+            "thumbnail":"https://ibb.co/F4Qf9zZ",
+            "releaseDate":"2015-06-11",
+            "content":
+            {
+                "dateAdded":"2015-06-11T14:14:54.431Z",
+                "captions":[],
+                "duration":236,
+                "videos":[{
+                    "url":"https://vimeo.com/718573107",
+                    "quality":"FHD",
+                    "videoType":"MP4"
+                }]
+            }
+          },
+          {
+            "id":"2",
+            "title":"Imagine Dragons: Radioactive",
+            "shortDescription":"Imagine Dragons Radioactive (Official Music Video)",
+            "thumbnail":"https://ibb.co/F4Qf9zZ",
+            "releaseDate":"2015-06-11",
+            "content":
+            {
+                "dateAdded":"2015-06-11T14:14:54.431Z",
+                "captions":[],
+                "duration":261,
+                "videos":[{
+                    "url":"https://vimeo.com/718573300",
+                    "quality":"FHD",
+                    "videoType":"MP4"
+                }]
+            }
+          },
+          {
+            "id":"3",
+            "title":"Imagine Dragons: Shots",
+            "shortDescription":"Imagine Dragons Shots (Official Music Video)",
+            "thumbnail":"https://ibb.co/3ywnbcQ",
+            "releaseDate":"2015-06-11",
+            "content":
+            {
+                "dateAdded":"2015-06-11T14:14:54.431Z",
+                "captions":[],
+                "duration":241,
+                "videos":[{
+                    "url":"https://vimeo.com/718574079",
+                    "quality":"FHD",
+                    "videoType":"MP4"
+                }]
+            }
+          },
+          {
+            "id":"4",
+            "title":"Imagine Dragons: I Bet My Life",
+            "shortDescription":"Imagine Dragons I Bet My Life (Official Music Video)",
+            "thumbnail":"https://ibb.co/3ywnbcQ",
+            "releaseDate":"2015-06-11",
+            "content":
+            {
+                "dateAdded":"2015-06-11T14:14:54.431Z",
+                "captions":[],
+                "duration":214,
+                "videos":[{
+                    "url":"https://vimeo.com/718573872",
+                    "quality":"FHD",
+                    "videoType":"MP4"
+                }]
+            }
+          }
+    ],
+
+
+    "playlists":[
+        {
+            "name":"Night Visions",
+            "itemIds":[
+                "1",
+                "2"
+            ]
+        },
+
+        {
+                "name":"Smoke + Mirrors",
+                "itemIds":[
+                "3",
+                "4"
+                ]
+        }
+],
+
+"categories":[
+    {
+        "name":"Night Visions Album",
+        "playlistName":"Night Visions",
+        "order":"manual"
+    },
+    {
+        "name":"Smoke + Mirrors Album",
+        "playlistName":"Smoke + Mirrors",
+        "order":"manual"
+    }
+]
+
+}    
